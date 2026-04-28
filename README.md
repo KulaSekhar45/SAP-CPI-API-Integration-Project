@@ -1,2 +1,21 @@
-# SAP-CPI-API-Integration-Project
-SAP CPI project for integrating Currency and Gold Price APIs using REST adapters and Groovy scripting. Demonstrates Request-Reply pattern, JSON parsing, and Exchange Property handling in SAP Cloud Integration.
+# SAP CPI API Integration Project
+
+This project integrates Currency and Gold Price APIs using SAP Cloud Platform Integration (CPI).
+
+## Features
+- Request-Reply HTTP calls
+- JSON parsing using Groovy Script
+- Exchange Property handling
+- Postman testing support
+
+## Screenshots
+![iFlow](cpi_iflow.png)
+![Groovy](groovy_script.png)
+![Webhook](Webhook.png)
+![Postman](postman_result.png)
+
+## Tools Used
+- SAP CPI
+- Groovy Script
+- REST APIs
+- Postman
